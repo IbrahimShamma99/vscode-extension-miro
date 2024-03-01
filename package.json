@@ -3,6 +3,10 @@
   "displayName": "miro-viewer",
   "description": "view miro board from your favorite edtiro",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IbrahimShamma99/vscode-extension-miro.git"
+  },
   "engines": {
     "vscode": "^1.87.0"
   },
