@@ -14,8 +14,9 @@
   "contributes": {
     "commands": [
       {
-        "command": "miro-viewer.helloWorld",
-        "title": "Hello World"
+        "command": "miro.start",
+        "title": "Open Miro Board",
+        "category": "Miro-Board"
       }
     ]
   },
