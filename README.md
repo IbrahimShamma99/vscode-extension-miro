@@ -6,13 +6,11 @@ View Miro Board from Vscode
 
 Use miro as if you are in browser
 
-\!\[feature X\]\(images/feature-x.png\)
-
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+![View](./demo.png)
 
 ## Requirements
 
-Make sure you are logged in to miro board on your default browser
+> We only now support viewable boards
 
 ## Extension Settings
 
@@ -35,5 +33,6 @@ Initial release of extension, only supports review board
 - [x] Open Boards
 - [ ] List down the boards history
 - [ ] Bookmarks
+- [ ] Authorized to boards
 
 **Enjoy!**
