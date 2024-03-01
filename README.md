@@ -6,7 +6,7 @@ View Miro Board from Vscode
 
 Use miro as if you are in browser
 
-![View](./demo.png)
+![View](demo.png)
 
 ## Requirements
 
